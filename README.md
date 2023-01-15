@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Proyecto Realizado Con React y Tailwind CSS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
