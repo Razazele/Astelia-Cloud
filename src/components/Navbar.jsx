@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { MenuIcon, XIcon } from '@heroicons/react/outline'
 import logo from '../assets/logo.png'
-import { Link, animateScroll as scroll } from 'react-scroll'
+import { Link  } from 'react-scroll'
 
 const Navbar = () => {
 
